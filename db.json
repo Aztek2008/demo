@@ -1,14 +1,17 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
+    { "id": 1, "title": "Blabla Post 1" },
+    { "id": 2, "title": "Blaaa-bla bla blabla Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body .kjbjhb hbjhb h hjhhbjhb jgvhg jhb jkhbjhkhjvjhh h hb jh ": "some comment", "postId": 1 },
+    { "id": 2, "body": "some jgbgbfgfth llk j hvg fg comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
-  }
+        "id": 10,
+        "name": "Aztek2008",
+        "online": true,
+        "picture": "https://picsum.photos/seed/09/60/60"
+    }
 }
